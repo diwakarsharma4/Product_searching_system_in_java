@@ -1,4 +1,4 @@
-- This program is able to aotomatically detect in a specific directory for any changes in it such as file deletion, new file addition, file modification.
+- This program is able to aotomatically detect for any changes in a specific directory such as file deletion, new file addition, file modification.
 
 - On any change occurrence in the directory the program will aotomatically load the new file and re-execute its searching process.
 
@@ -11,7 +11,7 @@
 
 - so I have created a new file named Reebok that has only one product detail aforementioned.
 
-- First of all we have to move Reebok file somewhere else and delete it from the csvdat->csvfiles.
+- First of all we have to move Reebok file to any other destination in local disk and delete it from the csvdata-->csvfiles.
 
 - Now run the program from app.java and provide following input -->
   - color - blue
